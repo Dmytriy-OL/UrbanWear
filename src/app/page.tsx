@@ -57,7 +57,7 @@ export default function HomePage() {
 
   return (
     <main className="p-8 max-w-7xl mx-auto">
-      <h1 className="text-4xl font-bold mb-8 text-center">UrbanWear Магазин</h1>
+      <h1 className="text-4xl font-bold mb-8 text-center">UrbanWear</h1>
 
       {!isLoggedIn ? (
         <div className="text-center mb-8">
